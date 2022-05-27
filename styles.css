@@ -1,0 +1,50 @@
+body {background:	#f0ffff;}
+
+hr {
+  background: white;
+  border: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+
+}
+
+h1 { background-color: #F9F3EE;
+     color: #66BFBF;
+     text-shadow: 0 0 3px #C0C0C0;
+
+
+
+  }
+
+h3 {background-color: #F9F3EE;
+    color: #66BFBF;
+    text-align: justify;
+    text-decoration: overline;
+    text-shadow: 0 0 3px #C0C0C0;
+ }
+ table {
+   border-collapse: collapse;
+   width: 65%;
+
+ }
+
+p {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+  height: 7px;
+
+}
+
+ul {
+  border-collapse: collapse;
+  width: 480px;
+}
+
+ li {
+   padding: 8px;
+   text-align: left;
+   border-bottom: 1px solid #ddd;
+ }
